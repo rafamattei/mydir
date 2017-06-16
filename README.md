@@ -1,0 +1,2 @@
+# mydir
+My first directory
